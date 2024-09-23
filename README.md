@@ -225,8 +225,8 @@ body, html {
   height: 100%;
 }
 
-#Inicio {background-color: red;}
-#News {background-color: green;}
+#Inicio {background-color: white;}
+#News {background-color: white;}
 #Contact {background-color: blue;}
 #About {background-color: orange;}
 </style>
