@@ -402,10 +402,7 @@ body, html {
       Coca cola de 350 ml
     </p>
   </div>
-</div>
-    
-  </div>
-</div>
+
 
 
 </div>
