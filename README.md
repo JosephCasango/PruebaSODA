@@ -45,7 +45,7 @@
 .cardinal {
   overflow: hidden;
   border-radius: 0.5rem;
-  box-shadow: rgb(0,0,0,0.7) 5px 10px 50px ,rgb(0,0,0,0.7) -5px 0px 250px;
+  box-shadow: rgb(0,0,0,0.7) 3px 5px 2px ,rgb(0,0,0,0.7) -1px 1px 20px;
   background-color: #fff;
   color: #212121;
 }
