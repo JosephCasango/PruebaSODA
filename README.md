@@ -372,6 +372,42 @@ body, html {
 </div>
 
 
+
+
+
+
+
+<div class="cardinal">
+
+  <div class="imageProduc"> <img src="https://i.pinimg.com/564x/26/3b/db/263bdba6cc05286655f97c68af9e843b.jpg" alt="Girl in a jacket" width="260" height="230"></div>
+  <br>
+  <br>
+
+  <div class="TextPro">
+    <p class="textOri">
+      
+    </p>
+
+    <div class="text2Ori">
+      <span>
+        $25
+      </span>
+      <span>Coca cola de lata</span>
+    </div>
+
+    <a class="actionButon" href="">
+      Agregar
+    </a>
+   <p class="date">
+      Coca cola de 350 ml
+    </p>
+  </div>
+</div>
+    
+  </div>
+</div>
+
+
 </div>
 
 
