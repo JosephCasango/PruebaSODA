@@ -342,11 +342,11 @@ body, html {
 
  
 <div class="cardinal">
-<br>
-  <br>
-  <br>
+
   <div class="imageProduc"> <img src="https://i.pinimg.com/564x/26/3b/db/263bdba6cc05286655f97c68af9e843b.jpg" alt="Girl in a jacket" width="260" height="230"></div>
   <br>
+  <br>
+
   <div class="TextPro">
     <p class="textOri">
       
